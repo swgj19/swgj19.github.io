@@ -201,6 +201,11 @@ img {
   border-style: none;
 }
 
+.logo img { 
+ display: inline-block;
+ float: left;
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
