@@ -2508,7 +2508,7 @@ fieldset:disabled a.btn {
 .btn-secondary {
   color: #fff;
   background-color: #fff;
-  border-color: #2c3e50;
+  border-color: #fff;
 }
 .btn-secondary:hover {
   color: #fff;
@@ -2523,7 +2523,7 @@ fieldset:disabled a.btn {
 }
 .btn-secondary.disabled, .btn-secondary:disabled {
   color: #fff;
-  background-color: #2c3e50;
+  background-color: #fff;
   border-color: #2c3e50;
 }
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-secondary.dropdown-toggle {
@@ -10267,7 +10267,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #fff;
   color: #fff;
 }
 
