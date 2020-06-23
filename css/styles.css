@@ -4004,7 +4004,8 @@ input[type=button].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  width: fit-content;
+  flex-shrink: 0;
+  flex-grow: 1;
   background: orange;
 }
 .navbar-brand {
